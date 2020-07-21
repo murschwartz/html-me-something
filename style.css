@@ -25,3 +25,7 @@ p {
 body {
     background: #E0FFFF;
 }
+
+.intro {
+    background-color: gray;
+}
